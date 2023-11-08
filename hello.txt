@@ -13,7 +13,6 @@ hello shanxi
 hello shanxi
 hello shanxi
 hello shanxi
-<<<<<<< HEAD
 hello shanxi master txt
 hello shanxi hot-fix txt
->>>>>>> hot-fix
+
